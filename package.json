@@ -71,7 +71,7 @@
         "object-fit-images": "^3.2.4",
         "qunitjs": "^2.4.1",
         "vinyl-named": "^1.1.0",
-        "webpack-stream": "^5.2.1"
+        "webpack-stream": "^7.0.0"
     },
     "dependencies": {
         "global": "^4.4.0",
